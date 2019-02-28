@@ -40,5 +40,6 @@
 - [100-Days-Of-Code Official Site](https://www.100daysofcode.com/)
 - [My twitter account](https://twitter.com/benmontales)
 - [My freeCodeCamp portfolio](https://www.freecodecamp.org/benmontales)
+- [My CodePen.io profile](https://codepen.io/benmontales)
 - [A 100-Days-Of-Code Frontend Web Developer Guide](https://github.com/nas5w/100-days-of-code-frontend)
 
