@@ -6,9 +6,20 @@
 
 ***"I will code for at least an hour every day for the next 100 days"*** - inspired by [Alexander Kallaway](https://github.com/Kallaway) [#100DaysOfCode](https://www.100daysofcode.com/)
 
-<br/>
-
 ## Logs
+
+#### Day 3: March 1, 2019 - Friday
+
+**Today's Progress**: 
+
+- Finished the Basic CSS and almost halfway through the Applied Visual Design challenges at [freeCodeCamp](https://www.freecodecamp.org/) curriculum.
+- Added some styles on parts of my tribute page.
+
+**Thoughts:** Nothing much coding for today, focus on completing the challenges at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Link to Work:** [Tribute Page](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/tribute-page)
+
+------
 
 #### Day 2: February 28, 2019 - Thursday
 
