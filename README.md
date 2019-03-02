@@ -8,6 +8,20 @@
 
 ## Logs
 
+#### Day 4: March 2, 2019 - Saturday
+
+**Today's Progress**: 
+
+- Finished my first project, which is the Tribute Page of [freeCodeCamp](https://www.freecodecamp.org/) curriculum.
+- Continue the Applied Visual Design challenges and I'm almost done.
+- Started my second project, a Survey Form.
+
+**Thoughts:** With the challenges I've done on the curriculum (still CSS), gotta do lots of exercises to get familiarize with it. Still overwhelmed though. :sweat_smile: :sweat_smile: :sweat_smile:
+
+**Link to Work:** [Tribute Page](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/tribute-page), [Survey Form](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/survey-form)
+
+------
+
 #### Day 3: March 1, 2019 - Friday
 
 **Today's Progress**: 
