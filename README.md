@@ -8,6 +8,19 @@
 
 ## Logs
 
+#### Day 5: March 3, 2019 - Sunday
+
+**Today's Progress**: 
+
+- Done some exercises on basic CSS.
+- Restructure index.html on my Survey Form project to comply with the criterias.
+
+**Thoughts:** Hold today the [freeCodeCamp](https://www.freecodecamp.org/) curriculum, in favor for the exercises at [W3School](https://www.w3schools.com), and just focus on html structuring of my 2nd project. 
+
+**Link to Work:** [Survey Form](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/survey-form)
+
+------
+
 #### Day 4: March 2, 2019 - Saturday
 
 **Today's Progress**: 
