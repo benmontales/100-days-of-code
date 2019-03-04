@@ -8,6 +8,19 @@
 
 ## Logs
 
+#### Day 6: March 4, 2019 - Monday
+
+**Today's Progress**: 
+
+- Finished all criteria on my Survey Form (partially designed).
+- Finished Applied Visual Design challenges at [freeCodeCamp](https://www.freecodecamp.org/) curriculum.
+
+**Thoughts:** A bit tired today because of work, but still manages to finish some challenges and partially designed my 2nd project. So sleepy doing this log. :sleepy: 
+
+**Link to Work:** [Survey Form](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/survey-form)
+
+------
+
 #### Day 5: March 3, 2019 - Sunday
 
 **Today's Progress**: 
