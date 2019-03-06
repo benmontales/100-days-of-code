@@ -8,6 +8,32 @@
 
 ## Logs
 
+#### Day 8: March 6, 2019 - Wednesday
+
+**Today's Progress**: 
+
+- Finished my 2nd project.
+- Focus on finishing my project (CSS Flex and Grid Layout mostly).
+
+**Thoughts:** Happy to finish my 2nd project, but still a long way to go. :smile::smile: Happy Coding!
+
+**Link to Work:** [Survey Form](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/survey-form)
+
+------
+
+#### Day 7: March 5, 2019 - Tuesday
+
+**Today's Progress**: 
+
+- Learn CSS Flex and Grid layouts.
+- Continue working on my Survey Form project.
+
+**Thoughts:** Gonna workout my html and css structuring and layouting. 
+
+**Link to Work:** [Survey Form](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/survey-form)
+
+------
+
 #### Day 6: March 4, 2019 - Monday
 
 **Today's Progress**: 
