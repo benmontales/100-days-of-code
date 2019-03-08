@@ -6,7 +6,32 @@
 
 ***"I will code for at least an hour every day for the next 100 days"*** - inspired by [Alexander Kallaway](https://github.com/Kallaway) [#100DaysOfCode](https://www.100daysofcode.com/)
 
+<br/>
+
 ## Logs
+
+#### Day 9: March 8, 2019 - Friday
+
+**Today's Progress**: 
+
+- Finished CSS Flex and Grid layout challenges from [freeCodeCamp](https://www.freecodecamp.org/).
+- Started my new project, Product Landing Page.
+
+**Thoughts:** I started out my new project and it's getting on my nerves :happy:. It makes me excite, due to the fact that I will gain more knowledge, getting familiarize with HTML and CSS, and another entry on my portfolio.
+
+**Link to Work:** [Product Landing Page](https://codepen.io/benmontales/full/QovrVV)
+
+------
+
+#### March 7, 2019 - Thursday
+
+**Today's Progress**: 
+
+- Continue CSS Flex and Grid challenges on [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts:** Will not count this day from the challenge, I fall asleep while doing the curriculum challenges, exhausted from work. 
+
+------
 
 #### Day 8: March 6, 2019 - Wednesday
 
