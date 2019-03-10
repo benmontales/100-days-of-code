@@ -10,6 +10,31 @@
 
 ## Logs
 
+#### Day 11: March 10, 2019 - Sunday
+
+**Today's Progress**: 
+
+- Rework my 3rd project from scratch.
+- Finished the navigation bar of the site and made it responsive.
+
+**Thoughts:** Today I've divided my tasks into smaller tasks, step by step approach. Yesterday was a disaster, because I've started it in one go and the result was not so good or lets just say "horrible". XD I'm quite happy about the result today though.  
+
+**Link to Work:** [Product Landing Page](https://codepen.io/benmontales/full/QovrVV)
+
+------
+
+#### Day 10: March 9, 2019 - Saturday
+
+**Today's Progress**: 
+
+- Continued working on my 3rd project.
+
+**Thoughts:** Feel lost working out the layout of my site, juggling flex and grid, designing it, and making it responsive. Gonna rework it tomorrow.
+
+**Link to Work:** [Product Landing Page](https://codepen.io/benmontales/full/QovrVV)
+
+------
+
 #### Day 9: March 8, 2019 - Friday
 
 **Today's Progress**: 
