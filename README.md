@@ -10,6 +10,20 @@
 
 ## Logs
 
+#### Day 12: March 12, 2019 - Tuesday
+
+**Today's Progress**: 
+
+- Continued working on my 3rd project.
+- Completed all user stories on the project.
+- More CSS properties added to make the site more appealing.
+
+**Thoughts:** Still focusing on finishing my 3rd project, no tutorials/challenges yet. Will continue to do that after finishing the 5 projects in Responsive Web Design at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Link to Work:** [Product Landing Page](https://codepen.io/benmontales/full/QovrVV)
+
+------
+
 #### Day 11: March 10, 2019 - Sunday
 
 **Today's Progress**: 
