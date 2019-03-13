@@ -10,6 +10,19 @@
 
 ## Logs
 
+#### Day 13: March 13, 2019 - Wednesday
+
+**Today's Progress**: 
+
+- Continued working on my 3rd project.
+- Finished the pricing section of the site.
+
+**Thoughts:** Happy on the progress of my 3rd site, though only footer section left, I've got to say that its still not responsive as it may be. Lots of static CSS codes, got to work it out. I'm still in the early stages and I'm sure that I can fix it on the coming days or weeks. :smile:
+
+**Link to Work:** [Product Landing Page](https://codepen.io/benmontales/full/QovrVV)
+
+------
+
 #### Day 12: March 12, 2019 - Tuesday
 
 **Today's Progress**: 
