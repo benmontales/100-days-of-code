@@ -10,6 +10,18 @@
 
 ## Logs
 
+#### Day 14: March 15, 2019 - Friday
+
+**Today's Progress**: 
+
+- Finished my 3rd project.
+
+**Thoughts:** Finally, I finished my 3rd project after a week of coding it. :smile: By building this project, I've got lots of new things learned. I knew that this project was far from perfect but as I've said, this is just the beginning. I've got lots of time to improve, I just need it to take one at a time. :happy:
+
+**Link to Work:** [Product Landing Page](https://codepen.io/benmontales/full/QovrVV)
+
+------
+
 #### Day 13: March 13, 2019 - Wednesday
 
 **Today's Progress**: 
