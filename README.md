@@ -10,6 +10,16 @@
 
 ## Logs
 
+#### Day 15: March 16, 2019 - Saturday
+
+**Today's Progress**: 
+
+- Watched some videos and do exercises (HTML and CSS).
+
+**Thoughts:** Not much coding today, just watched some videos about HTML and CSS, and do some exercises. Just want to get familiarized more with HTML and CSS before moving to JavaScript. I also want to finish the last 2 projects left on Responsive Web Design part of [freeCodeCamp](https://www.freecodecamp.org/) curriculum.
+
+------
+
 #### Day 14: March 15, 2019 - Friday
 
 **Today's Progress**: 
