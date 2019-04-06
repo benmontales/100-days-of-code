@@ -245,4 +245,6 @@ For Day 18 and up logs, see my [twitter](https://twitter.com/benmontales) accoun
 - [My twitter account](https://twitter.com/benmontales)
 - [My freeCodeCamp portfolio](https://www.freecodecamp.org/benmontales)
 - [My CodePen.io profile](https://codepen.io/benmontales)
+- [My Works](https://github.com/benmontales/100DaysOfCode-Projects)
+- [My GitHub](https://github.com/benmontales)
 
