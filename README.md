@@ -10,6 +10,34 @@
 
 ## Logs
 
+For Day 18 and up logs, see my [twitter](https://twitter.com/benmontales) account :smile: and to see my works, go [here](github.com/benmontales/100DaysOfCode-Projects).
+
+------
+
+#### Day 17: March 18, 2019 - Monday
+
+**Today's Progress**: 
+
+- Watched some videos and do exercises (HTML and CSS continuation).
+
+**Thoughts:** Continued watching video lectures and do exercises as well, same routine as yesterday. Maybe gonna start my 4th project tomorrow.
+
+**Link to Work:** [Exercises](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/exercises)
+
+------
+
+#### Day 16: March 17, 2019 - Sunday
+
+**Today's Progress**: 
+
+- Watched some videos and do exercises (HTML and CSS continuation).
+
+**Thoughts:** Continued watching video lectures and do exercises as well.
+
+**Link to Work:** [Exercises](https://github.com/benmontales/100DaysOfCode-Projects/tree/master/exercises)
+
+------
+
 #### Day 15: March 16, 2019 - Saturday
 
 **Today's Progress**: 
@@ -217,5 +245,4 @@
 - [My twitter account](https://twitter.com/benmontales)
 - [My freeCodeCamp portfolio](https://www.freecodecamp.org/benmontales)
 - [My CodePen.io profile](https://codepen.io/benmontales)
-- [A 100-Days-Of-Code Frontend Web Developer Guide](https://github.com/nas5w/100-days-of-code-frontend)
 
